@@ -1,1 +1,2 @@
-# hmasmm
+# ig-smm-panel
+SMM Panel. 
